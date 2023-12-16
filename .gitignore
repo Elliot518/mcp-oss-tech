@@ -1,0 +1,7 @@
+# mac os ignore start
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
